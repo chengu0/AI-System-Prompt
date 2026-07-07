@@ -1,2 +1,2 @@
-# AI-
+# AI-System Prompt
 基于 Claude fable 5 系统提示词改进而来，删除不必要的限制，添加有用的要求
